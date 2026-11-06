@@ -2,6 +2,8 @@
 
 > **Central Investment Question**: *Is First REIT's Divestment Strategy Creating Value for Unitholders, or Simply Replacing One Set of Risks with Another?*
 
+🌐 **Live Interactive Website**: [https://brandon119-04.github.io/first-reit-critique/](https://brandon119-04.github.io/first-reit-critique/)
+
 An interactive institutional research web platform, econometric event study, and capital reallocation model evaluating the complete Indonesian hospital portfolio divestment by First Real Estate Investment Trust (**SGX: AW9U**).
 
 ---
