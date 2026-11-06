@@ -1,0 +1,63 @@
+Category,Metric,Unit,FY2021,FY2022,FY2023,FY2024,FY2025,YoY Change (FY25 vs FY24),AR2025 Reference
+Income Statement Summary,Rental and Other Income,S$'million,102.3,111.3,108.6,102.2,100.5,-1.7%,"p. 2, 4, 125"
+Income Statement Summary,Rental and Other Income (Ex-FRS 116 Straight-Lining),S$'million,-,-,-,92.0,93.1,+1.2%,"p. 25, 125, Note 4"
+Income Statement Summary,Net Property and Other Income (NPI),S$'million,100.2,108.6,105.3,98.5,97.3,-1.1%,"p. 2, 4, 125"
+Income Statement Summary,Cash Net Property Income (Ex-FRS 116 Straight-Lining),S$'million,-,-,-,88.2,89.9,+1.9%,"Derived (Note 16, 17)"
+Income Statement Summary,Distributable Amount,S$'million,42.1,52.4,51.4,49.3,45.8,-7.0%,"p. 2, 4, 126"
+Per Unit Metrics,Distribution Per Unit (DPU) - Full Year,Singapore cents,2.61,2.64,2.48,2.36,2.17,-8.1%,"p. 2, 4, 126"
+Per Unit Metrics,DPU - 1Q,Singapore cents,0.65,0.66,0.62,0.6,0.58,-3.3%,"p. 44, 173"
+Per Unit Metrics,DPU - 2Q,Singapore cents,0.65,0.66,0.62,0.6,0.55,-8.3%,"p. 44, 173"
+Per Unit Metrics,DPU - 3Q,Singapore cents,0.65,0.66,0.62,0.58,0.52,-10.3%,"p. 44, 173"
+Per Unit Metrics,DPU - 4Q,Singapore cents,0.66,0.66,0.62,0.58,0.52,-10.3%,"p. 44, 173"
+Per Unit Metrics,Basic Earnings Per Unit (EPU),Singapore cents,4.0,1.56,2.98,1.68,1.29,-23.2%,"p. 4, 125, 171"
+Per Unit Metrics,Diluted Earnings Per Unit (EPU),Singapore cents,4.0,1.56,2.98,1.66,1.29,-22.3%,"p. 125, 171"
+Balance Sheet Summary,Assets Under Management (AUM / Inv Properties),S$'million,962.4,1145.3,1139.5,1118.0,1022.6,-8.5%,"p. 2, 4, 124"
+Balance Sheet Summary,Total Assets,S$'million,1019.0,1207.5,1187.3,1160.5,1089.0,-6.2%,p. 124
+Balance Sheet Summary,Total Gross Borrowings (Face Value),S$'million,369.9,463.7,458.9,459.6,458.0,-0.3%,p. 161-162
+Balance Sheet Summary,Total Carrying Borrowings,S$'million,366.8,459.7,452.7,453.5,454.8,+0.3%,"p. 124, 161"
+Balance Sheet Summary,Total Liabilities,S$'million,425.1,543.5,527.2,528.2,528.5,+0.0%,p. 124
+Balance Sheet Summary,Net Assets Attributable to Unitholders,S$'million,591.9,632.0,626.9,599.0,527.2,-12.0%,p. 124
+Balance Sheet Summary,Perpetual Securities,S$'million,33.3,33.3,33.3,33.3,33.3,0.0% (Redeemed 8 Jan 2026),"p. 124, 166"
+Balance Sheet Summary,Total Net Assets,S$'million,625.2,665.3,660.2,632.3,560.5,-11.4%,p. 124
+Per Unit & Capital Structure,Units in Issue (Year-End),'000,1613029,2058581,2076925,2094447,2110969,+0.8%,"p. 4, 124, 167"
+Per Unit & Capital Structure,Weighted Average Units in Issue (Basic),'000,1499382,1981551,2067938,2086175,2111058,+1.2%,"p. 4, 171"
+Per Unit & Capital Structure,Net Asset Value (NAV) Per Unit,Singapore cents,36.69,30.7,30.18,28.6,24.97,-12.7%,"p. 2, 5, 124"
+Portfolio Cap Rates & Yields,Portfolio Implied Gross Cap Rate (Ex-FRS 116 Cash Rent / AUM),%,-,-,-,8.23%,9.10%,+87 bps,"Derived (pp. 26-41, 133)"
+Portfolio Cap Rates & Yields,Portfolio Implied Cash NPI Cap Rate (Ex-FRS 116 Cash NPI / AUM),%,-,-,-,7.89%,8.79%,+90 bps,"Derived (Note 16, 17, 28)"
+Portfolio Cap Rates & Yields,Portfolio Accounting NPI Cap Rate (Reported NPI incl. FRS 116 / AUM),%,10.41%,9.48%,9.24%,8.81%,9.52%,+71 bps,"Derived (p. 4, 124-125)"
+Portfolio Cap Rates & Yields,Singapore Implied Gross / Cash NPI Cap Rate (Ex-FRS 116),%,-,-,-,14.47% / 12.69%,15.71% / 14.10%,+124 bps / +141 bps,"p. 33-34, 134, 175"
+Portfolio Cap Rates & Yields,Japan Implied Gross / Cash NPI Cap Rate (Ex-FRS 116),%,-,-,-,5.41% / 4.46%,5.78% / 4.90%,+37 bps / +44 bps,"p. 26-32, 139-141, 175"
+Portfolio Cap Rates & Yields,Indonesia (14 Active) Implied Gross / Cash NPI Cap Rate (Ex-FRS 116),%,-,-,-,8.95% / 8.84%,9.66% / 9.56%,+71 bps / +72 bps,"p. 35-41, 135-138, 175"
+Portfolio Cap Rates & Yields,Valuer Terminal Cap Rate - Indonesia Restructured HGB Hospitals,%,-,-,-,9.25% - 10.66%,9.25% - 11.18%,Upper bound +52 bps,"Note 4(ii), p. 159-160"
+Portfolio Cap Rates & Yields,Valuer Terminal Cap Rate - Indonesia Non-Restructured HGB,%,-,-,-,9.50%,9.00% - 9.86%,-50 to +36 bps,"Note 4(ii), p. 159-160"
+Portfolio Cap Rates & Yields,Valuer Terminal Cap Rate - Japan Nursing Homes (14 Freehold),%,-,-,-,4.30% - 5.00%,4.30% - 5.00%,Unchanged,"Note 4(ii), p. 160"
+Portfolio Cap Rates & Yields,Valuer DCF Discount Rate - Singapore / Japan / Indonesia,%,-,-,-,8.75% / 4.00-4.70% / 9.00-13.00%,8.75% / 4.00-4.70% / 9.30-13.20%,ID +20 to +65 bps,"Note 4(ii), p. 159-160"
+Key Financial Ratios,Interest Coverage Ratio (ICR),times,5.2,5.0,4.1,3.6,3.7,+0.1x,"p. 2, 5"
+Key Financial Ratios,Aggregate Leverage (Gearing Ratio),%,33.6%,38.5%,38.7%,39.6%,42.1%,+250 bps,"p. 2, 5"
+Key Financial Ratios,All-in Cost of Debt per Annum,%,4.2%,3.7%,5.0%,5.0%,4.5%,-50 bps,"p. 2, 5"
+Key Financial Ratios,Debt on Fixed Rates or Hedged,%,56.1%,59.6%,87.2%,56.9%,46.1%,-10.8% pts,p. 5
+Key Financial Ratios,Weighted Average Term to Debt Maturity,years,1.2,3.4,3.6,2.5,1.5,-1.0 yr,p. 20
+Key Financial Ratios,Percentage of Debt Under Social Finance,%,-,96.7%,76.8%,77.3%,78.7%,+1.4% pts,"p. 2, 5"
+Key Financial Ratios,Derivative Financial Instruments as % of NAV,%,-,0.94%,0.49%,0.01%,0.00%,-0.01% pts,p. 5
+Unit Price & Market Metrics,Opening Unit Price,S$,-,-,-,0.265,0.255,-3.8%,p. 44
+Unit Price & Market Metrics,Closing Unit Price (31 Dec),S$,0.305,0.26,0.265,0.255,0.275,+7.8%,p. 44
+Unit Price & Market Metrics,Highest Unit Price,S$,-,-,-,0.28,0.29,+3.6%,p. 44
+Unit Price & Market Metrics,Lowest Unit Price,S$,-,-,-,0.24,0.245,+2.1%,p. 44
+Unit Price & Market Metrics,Price-to-NAV Ratio (Year-End),times,0.83,0.85,0.88,0.89,1.1,+0.21x,Derived / p. 44
+Unit Price & Market Metrics,Market Capitalisation (31 Dec),S$'million,492.0,535.2,550.4,534.1,580.5,+8.7%,p. 44
+Unit Price & Market Metrics,Distribution Yield (at Closing Price),%,8.6%,10.2%,9.4%,9.3%,7.9%,-140 bps,p. 44
+Unit Price & Market Metrics,Total Return (1-Year Price + Distribution),%,-,-,-,5.8%,17.3%,+11.5% pts,p. 44
+Unit Price & Market Metrics,Total Trading Volume,million units,-,-,-,296.7,399.8,+34.7%,p. 44
+Unit Price & Market Metrics,Average Daily Traded Volume,million units,-,-,-,1.177,1.586,+34.7%,p. 44
+Geography Breakdown - Income,Indonesia Rental & Other Income,S$'million (%),-,-,-,84.6 (82.8%),82.9 (82.5%),-1.9%,"p. 4, 175"
+Geography Breakdown - Income,Japan Rental & Other Income,S$'million (%),-,-,-,13.4 (13.1%),13.4 (13.3%),-0.3%,"p. 4, 175"
+Geography Breakdown - Income,Singapore Rental & Other Income,S$'million (%),-,-,-,4.2 (4.1%),4.2 (4.2%),-0.3%,"p. 4, 175"
+Geography Breakdown - Income Ex-FRS116,Indonesia Rental Income (Ex-FRS 116 Straight-Lining),IDR billion / S$'m,621 / 76,645 / 75,694 / 74,727 / 74,764 / 75,+5.1% (IDR) / +1.4% (SGD),EGM Pres p. 11 / AR p. 169
+Geography Breakdown - AUM,Indonesia AUM (Carrying Value),S$'million (%),-,-,-,839.9 (75.1%),762.0 (74.5%),-9.3%,"p. 4, 133"
+Geography Breakdown - AUM,Japan AUM (Carrying Value),S$'million (%),-,-,-,247.7 (22.2%),232.0 (22.7%),-6.4%,"p. 4, 133"
+Geography Breakdown - AUM,Singapore AUM (Carrying Value),S$'million (%),-,-,-,30.4 (2.7%),28.6 (2.8%),-5.8%,"p. 4, 133"
+Portfolio Operational Summary,Number of Properties (Year-End),count,19,32,32,32,31,-1 (IAHCC divested 4 Dec 2025),"p. 2, 24"
+Portfolio Operational Summary,Total Gross Floor Area (GFA),sqm,353569,444558,446664,450085,432159,"-4.0% (excl. 17,926 sqm IAHCC)","p. 2, 134-142"
+Portfolio Operational Summary,Maximum Beds / Rooms,beds / rooms,-,-,-,6498,6305,-193 rooms (IAHCC),"p. 2, 24"
+Portfolio Operational Summary,Committed Occupancy,%,100.0%,100.0%,100.0%,100.0%,100.0%,Unchanged,p. 2
+Portfolio Operational Summary,Weighted Average Lease Expiry (WALE by GFA),years,11.5,12.5,11.5,10.6,10.0,-0.6 yrs,"p. 2, 25"
