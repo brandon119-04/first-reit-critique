@@ -1,0 +1,21 @@
+{
+  "name": "first-reit-strategic-critique",
+  "version": "1.0.0",
+  "description": "Interactive Research & Capital Recycling Web Portal for First REIT (SGX: AW9U)",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "first-reit",
+    "reit",
+    "sgx",
+    "singapore",
+    "finance",
+    "interactive-web"
+  ],
+  "author": "Antigravity Research",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer-core": "^25.16.0"
+  }
+}

@@ -1,0 +1,15 @@
+Property_ID,Short_Name,Full_Name,Acquisition_Year,Tranche,Tranche_Description,Cohort,Original_Purchase_Cost_SGD_M,Peak_Valuation_SGD_M,Peak_Valuation_Label,Jan_2026_Valuation_SGD_M,Agreed_Exit_or_Put_SGD_M,Realized_SGD_Gain_Loss_M,Realized_SGD_Return_Pct,Premium_to_Jan_2026_Valuation_Pct
+1,SH Lippo Village,Siloam Hospitals Lippo Village,2006,T1,Tranche 1 (Proposed Hospital Divestment),IPO,94.3,161.4,2015 Appraised Value,146,149.6,55.3,58.64,2.5
+2,SH Kebon Jeruk,Siloam Hospitals Kebon Jeruk,2006,T1,Tranche 1 (Proposed Hospital Divestment),IPO,50.6,94.7,2015 Appraised Value,66.4,68.2,17.6,34.78,2.7
+3,SH Lippo Cikarang,Siloam Hospitals Lippo Cikarang,2010,T2,Tranche 2 (Put Option Agreement),POST,35,46.7,2015 Appraised Value,48,48,13,37.14,0
+4,SH Makassar,Siloam Hospitals Makassar,2012,T2,Tranche 2 (Put Option Agreement),POST,59.3,73.4,2015 Appraised Value,61.5,61.5,2.2,3.71,0
+5,SH Manado + Hotel,Siloam Hospitals Manado & Hotel Aryaduta Manado,2012,T1,Tranche 1 (Hospital SPA + LK Non-Core SPA),POST,83.6,104.7,2015 Appraised Value,78.1,78.4,-5.2,-6.22,0.4
+6,SH Baubau + Mall,Siloam Hospitals Baubau & Lippo Plaza Baubau,2017,T1,Tranche 1 (Hospital SPA + LK Non-Core SPA),POST,28.5,28.9,2017 Acquisition Appraisal,22.2,22.4,-6.1,-21.4,1.1
+7,SH Purwakarta,Siloam Hospitals Purwakarta,2014,T1,Tranche 1 (Proposed Hospital Divestment),POST,31,39.1,2015 Appraised Value,21,22,-9,-29.03,4.4
+8,MRCCC Cancer Ctr,Mochtar Riady Comprehensive Cancer Centre,2010,T2,Tranche 2 (Put Option Agreement),POST,170.5,264.3,2015 Appraised Value,118.1,118.1,-52.4,-30.73,0
+9,SH Yogyakarta,Siloam Hospitals Yogyakarta,2017,T2,Tranche 2 (Put Option Agreement),POST,27,27,2017 Purchase Valuation,17.9,17.9,-9.1,-33.7,0
+10,Siloam Sriwijaya,Siloam Sriwijaya (Palembang),2014,T1,Tranche 1 (Proposed Hospital Divestment),POST,39.2,42.1,2015 Appraised Value,24.3,25.1,-14.1,-35.97,3.4
+11,SH Kupang + Mall,Siloam Hospitals Kupang & Lippo Plaza Kupang,2015,T1,Tranche 1 (Hospital SPA + MPU Non-Core Lease),POST,75,75.4,2015 Appraised Value,46.4,46.5,-28.5,-38.0,0.2
+12,SH Bali,Siloam Hospitals Bali (Denpasar),2013,T1,Tranche 1 (Proposed Hospital Divestment),POST,97.3,124.8,2015 Appraised Value,57.4,59.4,-37.9,-38.95,3.4
+13,SH Labuan Bajo,Siloam Hospitals Labuan Bajo,2016,T2,Tranche 2 (Put Option Agreement),POST,20,20,2016 Purchase Valuation,9.8,9.8,-10.2,-51.0,0
+14,SH TB Simatupang,Siloam Hospitals TB Simatupang,2013,T2,Tranche 2 (Put Option Agreement),POST,93.1,119.7,2015 Appraised Value,39.5,39.5,-53.6,-57.57,0

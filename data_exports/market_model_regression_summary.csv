@@ -1,0 +1,26 @@
+Metric,Value
+Target REIT Ticker,AW9U.SI
+Benchmark Ticker,^STI
+Peer Ticker,C2PU.SI
+Event Date (t=0),2026-04-01
+Estimation Window Start,2025-06-17
+Estimation Window End,2026-03-02
+Estimation Window Trading Days,180
+Alpha (Daily Intercept),-0.000177
+Alpha Standard Error,0.001068
+Alpha t-statistic,-0.1655
+Alpha p-value,8.687231e-01
+Beta (Slope / Market Sensitivity),0.2210
+Beta Standard Error,0.1853
+Beta t-statistic,1.1924
+Beta p-value,2.346756e-01
+R-squared,0.0079
+Residual Standard Error (Daily),0.013976
+Residual Variance (s_e^2),0.00019534
+Annualized Residual Volatility,0.2219
+Event Day t=0 Abnormal Return (AR),-4.3128%
+Event Day t=0 CAR,-3.6883%
+Total Event Window CAR,-4.8441%
+Total CAR Standard Error,9.0381%
+Total CAR t-statistic,-0.5360
+Event Window Range,"[-20, +20]"
